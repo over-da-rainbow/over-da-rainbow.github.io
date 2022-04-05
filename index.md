@@ -27,3 +27,20 @@ It also provides code that implements a variety of useful design concepts, inclu
 ## Team Contract
 
 [Team Contract](https://docs.google.com/document/d/1HXy_bQAs_UlvUBsboftt7dbf-zyPfi7BWICM8ahgs0M/edit)
+
+##Goals
+
+* Create a user friendly outdoor guide web application that allows UH students/staff to safely discover Oahu’s best kept secret spots.
+* Visually appealing and outdoor theme
+* Make the activities/spots suggested customized to user 
+* Provide suggestions for students to volunteer to help the community
+
+## What Should the System Provide
+
+* Home page where all users are funneled to
+* Users can login and keep track of all the places they’ve already explored
+* Suggested page where users can surf through different suggested destinations for their next experience.
+* Anonymous ratings under each destination to help future explorers.
+* Choice to leave comments under the destination.
+* “Volunteering” tab for people who need volunteer hours or want to help community
+* Tags for each location about what kind of activity  (ex. Beach, hike, etc.)
