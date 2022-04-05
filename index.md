@@ -28,7 +28,7 @@ It also provides code that implements a variety of useful design concepts, inclu
 
 [Team Contract](https://docs.google.com/document/d/1HXy_bQAs_UlvUBsboftt7dbf-zyPfi7BWICM8ahgs0M/edit)
 
-##Goals
+## Goals
 
 * Create a user friendly outdoor guide web application that allows UH students/staff to safely discover Oahu’s best kept secret spots.
 * Visually appealing and outdoor theme
