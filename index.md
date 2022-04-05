@@ -1,8 +1,6 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Deployment](#deployment)
-* [User Guide](#user-guide)
 * [Team Contract](#team-contract)
 
 ## Overview
