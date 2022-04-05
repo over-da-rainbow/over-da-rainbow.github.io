@@ -1,9 +1,11 @@
+# Over Da Rainbow
+
 ## Table of contents
 
 * [Overview](#overview)
 * [Team Contract](#team-contract)
 * [Goals](#goals)
-* What Should the System Provide(#what-should-the-system-provide)
+* [What Should the System Provide](#what-should-the-system-provide)
 
 ## Overview
 
