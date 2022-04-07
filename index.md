@@ -6,6 +6,7 @@
 * [Team Contract](#team-contract)
 * [Goals](#goals)
 * [What Should the System Provide](#what-should-the-system-provide)
+* [Mockup pages](#mockup-pages)
 
 ## Overview
 
@@ -37,3 +38,20 @@ Over Da Rainbow is a web application for University of Hawaii students to get to
 * Choice to leave comments under the destination.
 * “Volunteering” tab for people who need volunteer hours or want to help community
 * Tags for each location about what kind of activity  (ex. Beach, hike, etc.)
+
+## Mockup pages
+
+#### Landing page Mockup
+
+![landing-mockup](https://user-images.githubusercontent.com/96926588/162130685-796a46c8-ae5c-4b01-b105-dfa7ab110617.png)
+
+
+#### User logged in Mockup
+
+![loggedin-mockup](https://user-images.githubusercontent.com/96926588/162130751-4c126193-0cf6-443f-8460-7542f7a57ebe.png)
+
+
+#### Sample card 
+
+![samplecard](https://user-images.githubusercontent.com/96926588/162130811-8595e3fc-4977-48e3-a708-e5c7f9cb9aac.png)
+
