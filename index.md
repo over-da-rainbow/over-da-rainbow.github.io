@@ -53,5 +53,5 @@ Over Da Rainbow is a web application for University of Hawaii students to get to
 
 #### Sample card 
 
-![samplecard](https://user-images.githubusercontent.com/96926588/162130811-8595e3fc-4977-48e3-a708-e5c7f9cb9aac.png)
+<img width="352" alt="Screen Shot 2022-04-06 at 8 07 09 PM" src="https://user-images.githubusercontent.com/96926588/162131469-7844878f-d430-475c-8467-507061ea8c9f.png">
 
