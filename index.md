@@ -7,6 +7,7 @@
 * [Goals](#goals)
 * [What Should the System Provide](#what-should-the-system-provide)
 * [Mockup pages](#mockup-pages)
+* [Deployment](#Deployment)
 
 ## Overview
 
@@ -54,4 +55,8 @@ Over Da Rainbow is a web application for University of Hawaii students to get to
 #### Sample card 
 
 <img width="352" alt="Screen Shot 2022-04-06 at 8 07 09 PM" src="https://user-images.githubusercontent.com/96926588/162131469-7844878f-d430-475c-8467-507061ea8c9f.png">
+
+## Deployment
+
+This web application is deployed through digital ocean and available at: http://137.184.225.140/
 
