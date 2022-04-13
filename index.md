@@ -70,6 +70,6 @@ Milestone boards listed below:
 
 [Milestone 1 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/1)
 
-[Milestone 2 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/1)
+[Milestone 2 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/2)
 
-[Milestone 3 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/1)
+[Milestone 3 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/3)
