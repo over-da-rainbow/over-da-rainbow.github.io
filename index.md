@@ -65,5 +65,7 @@ This web application is deployed through digital ocean and available at: http://
 ## Milestones
 
 [Milestone 1 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/1)
+
 [Milestone 2 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/1)
+
 [Milestone 3 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/1)
