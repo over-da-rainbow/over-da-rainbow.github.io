@@ -8,6 +8,7 @@
 * [What Should the System Provide](#what-should-the-system-provide)
 * [Mockup pages](#mockup-pages)
 * [Deployment](#Deployment)
+* [Milestones](#Milestones)
 
 ## Overview
 
@@ -60,3 +61,9 @@ Over Da Rainbow is a web application for University of Hawaii students to get to
 
 This web application is deployed through digital ocean and available at: http://137.184.225.140/
 
+
+## Milestones
+
+[Milestone 1 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/1)
+[Milestone 2 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/1)
+[Milestone 3 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/1)
