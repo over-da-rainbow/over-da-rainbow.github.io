@@ -70,7 +70,7 @@ Over Da Rainbow is a web application for University of Hawaii students to get to
 
 ### Campus Page
 
-![campusPage-mockup](https://user-images.githubusercontent.com/30875198/163542292-b00291de-d963-4074-8408-116f529983fc.png)
+![campusPage-mockup](https://user-images.githubusercontent.com/30875198/163543446-342fc914-8d6f-4dfc-a0ba-5c01fe88d24b.png)
 
 
 #### Sample card 
