@@ -45,12 +45,15 @@ Over Da Rainbow is a web application for University of Hawaii students to get to
 
 #### Landing page Mockup
 
-![landing-mockup](https://user-images.githubusercontent.com/96926588/162130685-796a46c8-ae5c-4b01-b105-dfa7ab110617.png)
+![landing-mockup](https://user-images.githubusercontent.com/96926588/163501059-85517fa7-05e3-4229-a293-a2fe9674f5d3.png)
+
+![landing-mockup](https://user-images.githubusercontent.com/96926588/163501139-535b348e-a7f6-4c2b-9cbc-b57e43f8297f.png)
 
 
-#### User logged in Mockup
 
-![loggedin-mockup](https://user-images.githubusercontent.com/96926588/162130751-4c126193-0cf6-443f-8460-7542f7a57ebe.png)
+#### User logged in Landing page
+
+![loggedin-mockup](https://user-images.githubusercontent.com/96926588/163501185-7f9f0503-5206-49fc-9690-8302938fd742.png)
 
 
 #### Sample card 
