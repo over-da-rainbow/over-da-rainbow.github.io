@@ -9,6 +9,7 @@
 * [Mockup pages](#mockup-pages)
 * [Deployment](#Deployment)
 * [Milestones](#Milestones)
+* [Our Organization](#Our-Organization)
 
 ## Overview
 
@@ -76,3 +77,8 @@ Milestone boards listed below:
 [Milestone 2 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/2)
 
 [Milestone 3 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/3)
+
+
+## Our Organization
+
+The Github organization for our web application can be found [here](https://github.com/over-da-rainbow)
