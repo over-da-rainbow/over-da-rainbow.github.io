@@ -79,7 +79,7 @@ Over Da Rainbow is a web application for University of Hawaii students to get to
 
 ## Deployment
 
-This web application is deployed through digital ocean and available [here](http://137.184.225.140/)
+This web application is deployed through digital ocean and available [here](https://overdarainbow.xyz/)
 
 
 ## Milestones
