@@ -9,6 +9,7 @@
 * [Mockup pages](#mockup-pages)
 * [Deployment](#Deployment)
 * [Milestones](#Milestones)
+* [Developer Guide](#Developer-guide)
 
 ## Overview
 
@@ -76,6 +77,26 @@ Over Da Rainbow is a web application for University of Hawaii students to get to
 #### Sample card 
 
 <img width="352" alt="Screen Shot 2022-04-06 at 8 07 09 PM" src="https://user-images.githubusercontent.com/96926588/162131469-7844878f-d430-475c-8467-507061ea8c9f.png">
+
+## Developer Guide
+
+This section provides information pertaining to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
+### Installation
+
+First, install Meteor.
+
+Second, visit the Bowfolios application github page, and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the bowfolios/app directory and install libraries with:
+
+`$ meteor npm install`
+
+Fourth, run the system with:
+
+`$ meteor npm run start`
+
+After completing the following steps, the application should appear at http://localhost:3000 on your local machine.
 
 ## Deployment
 
