@@ -43,17 +43,17 @@ Over Da Rainbow is a web application for University of Hawaii students to get to
 * “Volunteering” tab for people who need volunteer hours or want to help community
 * Tags for each location about what kind of activity  (ex. Beach, hike, etc.)
 
-## Up to date Pages
+## Up-to-date Pages
 
-#### New User Landing page
-
-![landing-mockup](https://user-images.githubusercontent.com/96926588/165230731-e69cf994-30e0-494c-931f-d34a7180aa48.png)
-
-![landing-mockup](https://user-images.githubusercontent.com/96926588/165230607-085e9b61-eed1-4c24-b6b2-5c14652fbdad.png)
-
-#### User logged in Landing page
+### User logged in Landing page
 
 ![landing](https://user-images.githubusercontent.com/96926588/165230345-7e9bad4a-9702-431f-8ff2-7be8890d1354.png)
+
+### Bulletin Page
+
+[Bulletin page mockup here]
+
+Users will see upcoming events/meetups listed on the Bulletin page. Users will be able to leave comments and coordinate plans through the bulletin comment section.
 
 
 ### Beach Page
@@ -73,10 +73,16 @@ Over Da Rainbow is a web application for University of Hawaii students to get to
 
 ![campusPage-mockup](https://user-images.githubusercontent.com/30875198/163543446-342fc914-8d6f-4dfc-a0ba-5c01fe88d24b.png)
 
+### Volunteer Page 
 
-#### Sample card 
+![volunteerPage-mockup](https://user-images.githubusercontent.com/96926588/165231460-bea63149-4386-4d97-9b70-7adac9649d44.png)
 
-<img width="352" alt="Screen Shot 2022-04-06 at 8 07 09 PM" src="https://user-images.githubusercontent.com/96926588/162131469-7844878f-d430-475c-8467-507061ea8c9f.png">
+
+#### Clickable Location Card
+
+![sampleCard-mockup](https://user-images.githubusercontent.com/96926588/162131469-7844878f-d430-475c-8467-507061ea8c9f.png)
+
+
 
 ## Developer Guide
 
@@ -100,6 +106,26 @@ After completing the following steps, the application should appear at http://lo
 
 ## User Guide
 
+Upon arriving at our site, users will be presented with this screen: 
+
+### New User Landing page
+
+![landing-mockup](https://user-images.githubusercontent.com/96926588/165230731-e69cf994-30e0-494c-931f-d34a7180aa48.png)
+
+![landing-mockup](https://user-images.githubusercontent.com/96926588/165230607-085e9b61-eed1-4c24-b6b2-5c14652fbdad.png)
+
+From here, Students, Staff, and anyone in the University of Hawaii system will be able to create an account by clicking the "Sign up" button in the upper right hand corner.
+
+![sign-up-page](https://user-images.githubusercontent.com/96926588/165232694-8f59fc11-7030-4a3d-97b0-04a0e8cd7516.png)
+
+You will be redirected to this sign up form where you will be prompted to enter your school email (ending in @hawaii.edu) and create a password for your over-da-rainbow account.
+
+
+![logged-in-page](https://user-images.githubusercontent.com/96926588/165233312-d75916f8-03bd-4662-bf81-909e2e1bfd34.png)
+
+Upon entering the appropriate information and creating the account, you should be taken to our beautiful landing page. 
+
+From here you can navigate through our selection of outdoor activities including beaches, hikes, scenic points, campus spots, and even volunteer opportunities. 
 
 
 ## Deployment
