@@ -10,6 +10,7 @@
 * [Deployment](#Deployment)
 * [Milestones](#Milestones)
 * [Developer Guide](#Developer-guide)
+* [User Guide](#User-guide)
 
 ## Overview
 
@@ -42,19 +43,18 @@ Over Da Rainbow is a web application for University of Hawaii students to get to
 * “Volunteering” tab for people who need volunteer hours or want to help community
 * Tags for each location about what kind of activity  (ex. Beach, hike, etc.)
 
-## Mockup pages
+## Up to date Pages
 
-#### Landing page Mockup
+#### New User Landing page
 
-![landing-mockup](https://user-images.githubusercontent.com/96926588/163501059-85517fa7-05e3-4229-a293-a2fe9674f5d3.png)
+![landing-mockup](https://user-images.githubusercontent.com/96926588/165230731-e69cf994-30e0-494c-931f-d34a7180aa48.png)
 
-![landing-mockup](https://user-images.githubusercontent.com/96926588/163501139-535b348e-a7f6-4c2b-9cbc-b57e43f8297f.png)
-
-
+![landing-mockup](https://user-images.githubusercontent.com/96926588/165230607-085e9b61-eed1-4c24-b6b2-5c14652fbdad.png)
 
 #### User logged in Landing page
 
-![loggedin-mockup](https://user-images.githubusercontent.com/96926588/163501185-7f9f0503-5206-49fc-9690-8302938fd742.png)
+![landing](https://user-images.githubusercontent.com/96926588/165230345-7e9bad4a-9702-431f-8ff2-7be8890d1354.png)
+
 
 ### Beach Page
 
@@ -97,6 +97,10 @@ Fourth, run the system with:
 `$ meteor npm run start`
 
 After completing the following steps, the application should appear at http://localhost:3000 on your local machine.
+
+## User Guide
+
+
 
 ## Deployment
 
