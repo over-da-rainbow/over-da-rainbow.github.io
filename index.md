@@ -43,50 +43,10 @@ Over Da Rainbow is a web application for University of Hawaii students to get to
 * “Volunteering” tab for people who need volunteer hours or want to help community
 * Tags for each location about what kind of activity  (ex. Beach, hike, etc.)
 
-## Up-to-date Pages
-
-### User logged in Landing page
-
-![landing](https://user-images.githubusercontent.com/96926588/165230345-7e9bad4a-9702-431f-8ff2-7be8890d1354.png)
-
-### Bulletin Page
-
-[Bulletin page mockup here]
-
-Users will see upcoming events/meetups listed on the Bulletin page. Users will be able to leave comments and coordinate plans through the bulletin comment section.
-
-
-### Beach Page
-
-![beachPage-mockup](https://user-images.githubusercontent.com/30875198/163542599-0c8bc7fa-0100-47c3-82c9-b209dad8bc55.png)
-
-### Hike Page
-
-![hikePage-mockup](https://user-images.githubusercontent.com/30875198/163542020-809a3ea8-2059-46fa-9876-7ac2cdeb3e99.png)
-
-### Scenic Views Page
-
-![scenicPage-mockup](https://user-images.githubusercontent.com/30875198/163542387-df3a8c6c-46ee-4f24-98b9-6ab316f07e64.png)
-
-
-### Campus Page
-
-![campusPage-mockup](https://user-images.githubusercontent.com/30875198/163543446-342fc914-8d6f-4dfc-a0ba-5c01fe88d24b.png)
-
-### Volunteer Page 
-
-![volunteerPage-mockup](https://user-images.githubusercontent.com/96926588/165231460-bea63149-4386-4d97-9b70-7adac9649d44.png)
-
-
-#### Clickable Location Card
-
-![sampleCard-mockup](https://user-images.githubusercontent.com/96926588/162131469-7844878f-d430-475c-8467-507061ea8c9f.png)
-
-
 
 ## Developer Guide
 
-This section provides information pertaining to Meteor developers wishing to use this code base as a basis for their own development tasks.
+#### This section provides information pertaining to Meteor developers wishing to use this code base as a basis for their own development tasks.
 
 ### Installation
 
@@ -106,6 +66,8 @@ After completing the following steps, the application should appear at http://lo
 
 ## User Guide
 
+#### This section provides a crash course on using our application to the full extent of its capabilities...
+
 Upon arriving at our site, users will be presented with this screen: 
 
 ### New User Landing page
@@ -114,18 +76,66 @@ Upon arriving at our site, users will be presented with this screen:
 
 ![landing-mockup](https://user-images.githubusercontent.com/96926588/165230607-085e9b61-eed1-4c24-b6b2-5c14652fbdad.png)
 
-From here, Students, Staff, and anyone in the University of Hawaii system will be able to create an account by clicking the "Sign up" button in the upper right hand corner.
+From here, Students, Staff, and anyone in the University of Hawaii system will be able to create an account by clicking the "Login" button in the upper right hand corner, then choosing the "Sign-up" option if you are a new user.
 
 ![sign-up-page](https://user-images.githubusercontent.com/96926588/165232694-8f59fc11-7030-4a3d-97b0-04a0e8cd7516.png)
 
-You will be redirected to this sign up form where you will be prompted to enter your school email (ending in @hawaii.edu) and create a password for your over-da-rainbow account.
+You will be redirected to this sign-up form where you will be prompted to enter your school email and create a password for your over-da-rainbow account.
 
 
 ![logged-in-page](https://user-images.githubusercontent.com/96926588/165233312-d75916f8-03bd-4662-bf81-909e2e1bfd34.png)
 
+
+
 Upon entering the appropriate information and creating the account, you should be taken to our beautiful landing page. 
 
 From here you can navigate through our selection of outdoor activities including beaches, hikes, scenic points, campus spots, and even volunteer opportunities. 
+
+
+### User logged in Landing page
+
+![landing](https://user-images.githubusercontent.com/96926588/165230345-7e9bad4a-9702-431f-8ff2-7be8890d1354.png)
+
+### Bulletin Page
+
+[Bulletin page mockup here]
+
+Users will see upcoming events/meetups listed on the Bulletin page. Users will be able to leave comments and coordinate plans through the bulletin comment section.
+
+#### Just Click!
+
+When Navigating through any of the pages listed above, simply click on the location you want to learn more about and we will redirect you to another page with more information!
+
+### Beach Page
+
+A variety of beaches around the island for you to choose from.
+
+![beachPage-mockup](https://user-images.githubusercontent.com/30875198/163542599-0c8bc7fa-0100-47c3-82c9-b209dad8bc55.png)
+
+### Hike Page
+
+Sunny skies, thick foilage, or flowing waterfalls. We have something for everyone on our hikes page
+
+![hikePage-mockup](https://user-images.githubusercontent.com/30875198/163542020-809a3ea8-2059-46fa-9876-7ac2cdeb3e99.png)
+
+### Scenic Views Page
+
+Breathtaking views from any corner of the island
+
+![scenicPage-mockup](https://user-images.githubusercontent.com/30875198/163542387-df3a8c6c-46ee-4f24-98b9-6ab316f07e64.png)
+
+
+### Campus Page
+
+Cool places to hangout with your friends, study, or grab a quick snack.
+
+![campusPage-mockup](https://user-images.githubusercontent.com/30875198/163543446-342fc914-8d6f-4dfc-a0ba-5c01fe88d24b.png)
+
+### Volunteer Page 
+
+It has never been easier to find volunteer opportunities to beef up your resume or be a productive member of society. Get your volunteer hours buddy
+
+![volunteerPage-mockup](https://user-images.githubusercontent.com/96926588/165231460-bea63149-4386-4d97-9b70-7adac9649d44.png)
 
 
 ## Deployment
