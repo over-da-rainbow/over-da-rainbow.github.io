@@ -3,7 +3,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Team Contract](#team-contract)
+* [Deployment](#Deployment)
 * [Goals](#goals)
 * [What Should the System Provide](#what-should-the-system-provide)
 * [Mockup pages](#mockup-pages)
@@ -14,7 +14,7 @@
 
 ## Overview
 
-Over Da Rainbow is a web application for University of Hawaii students to get together and explore beautiful sceneries and destinations offered here.
+Over Da Rainbow is a web application for University of Hawaii students to step outside their dorms and classrooms and explore beautiful sceneries and destinations offered here.
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
@@ -22,16 +22,17 @@ Over Da Rainbow is a web application for University of Hawaii students to get to
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 
-## Team Contract
+## Deployment
 
-[Team Contract](https://docs.google.com/document/d/1HXy_bQAs_UlvUBsboftt7dbf-zyPfi7BWICM8ahgs0M/edit)
+This web application is deployed through digital ocean and available [here](https://overdarainbow.xyz/) or at https://overdarainbow.xyz/
+
 
 ## Goals
 
 * Create a user friendly outdoor guide web application that allows UH students/staff to safely discover Oahu’s best kept secret spots.
-* Visually appealing and outdoor theme
-* Make the activities/spots suggested customized to user 
-* Provide suggestions for students to volunteer to help the community
+* Give students ideas for outdoor activities to ease their minds from their classes.
+* Provide volunteer opportunities for students to help the community and enhance their resumes.
+* Coordinate plans with friends by using our bulletin page.
 
 ## What Should the System Provide
 
@@ -138,9 +139,9 @@ It has never been easier to find volunteer opportunities to beef up your resume 
 ![volunteerPage-mockup](https://user-images.githubusercontent.com/96926588/165231460-bea63149-4386-4d97-9b70-7adac9649d44.png)
 
 
-## Deployment
+## Team Contract
 
-This web application is deployed through digital ocean and available [here](https://overdarainbow.xyz/)
+[Team Contract](https://docs.google.com/document/d/1HXy_bQAs_UlvUBsboftt7dbf-zyPfi7BWICM8ahgs0M/edit)
 
 
 ## Milestones
