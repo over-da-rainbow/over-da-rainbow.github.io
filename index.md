@@ -162,6 +162,14 @@ When Navigating through any of the pages listed above, simply click on the locat
 <img width="1440" alt="Screen Shot 2022-04-26 at 2 25 43 PM" src="https://user-images.githubusercontent.com/96926588/165414303-e4735749-ad28-445f-b2f2-987ac2c19a07.png">
 
 
+### Add Location Page
+
+When logged in to an admin account, by clicking the user's email on the right side of the navbar, a dropdown is displayed in which the Add Location page can be accessed.
+
+![addLocationPage-mockup]()
+
+
+
 ## Team Contract
 
 [Team Contract](https://docs.google.com/document/d/1HXy_bQAs_UlvUBsboftt7dbf-zyPfi7BWICM8ahgs0M/edit)
