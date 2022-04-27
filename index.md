@@ -25,6 +25,7 @@ Over Da Rainbow is a web application for University of Hawaii students to step o
 ## Deployment
 
 This web application is deployed through digital ocean and available [here](https://overdarainbow.xyz/) or at https://overdarainbow.xyz/
+![ci-badge](https://github.com/over-da-rainbow/over-da-rainbow/workflows/over-da-rainbow/badge.svg)
 
 
 ## Goals
