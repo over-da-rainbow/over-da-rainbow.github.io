@@ -66,6 +66,20 @@ Fourth, run the system with:
 
 After completing the following steps, the application should appear at http://localhost:3000 on your local machine.
 
+### Adding a new Location
+
+First, login to your deployment of Over Da Rainbow using an admin account.
+
+![admin-login](https://user-images.githubusercontent.com/97726557/165465087-9c3c5f6c-7b38-40d0-932d-750aa0e63f40.png)
+
+Second, click on the account name on the right of the navbar to open a dropdown menu and click on "Add Location"
+
+![addLocation-navbar](https://user-images.githubusercontent.com/97726557/165465443-2f702b25-d4e2-43a5-8d16-2e0dd66f9a2b.png)
+
+Third, input the location name, type of location, description of the location, the actual physical location, and a link to an image of the location to create a new location.
+
+![addLocation-example](https://user-images.githubusercontent.com/97726557/165465990-e2411a7f-64ec-4a6e-8b55-05f33f53b55c.JPG)
+
 
 
 
