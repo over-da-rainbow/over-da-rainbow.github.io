@@ -180,3 +180,8 @@ Milestone boards listed below:
 [Milestone 3 project board](https://github.com/over-da-rainbow/over-da-rainbow/projects/3)
 
 
+### More about the organization
+
+[Over-da-Rainbow Organization](https://github.com/over-da-rainbow)
+
+
