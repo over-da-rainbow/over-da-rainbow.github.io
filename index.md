@@ -89,19 +89,12 @@ From here, Students, Staff, and anyone in the University of Hawaii system will b
 
 First click the "Login" button in the upper right hand corner, then choose the "Sign-up" option if you are a new user, or the login button if you are a returning user.
 
-
-
-![sign-up-page](https://user-images.githubusercontent.com/96926588/165232694-8f59fc11-7030-4a3d-97b0-04a0e8cd7516.png)
-
-
-
-
 You will be redirected to this sign-up form where you will be prompted to enter your school email and create a password for your over-da-rainbow account.
 
 
 
 
-![logged-in-page](https://user-images.githubusercontent.com/96926588/165233312-d75916f8-03bd-4662-bf81-909e2e1bfd34.png)
+![sign-up-page](https://user-images.githubusercontent.com/96926588/165232694-8f59fc11-7030-4a3d-97b0-04a0e8cd7516.png)
 
 
 
@@ -116,10 +109,11 @@ From here you can navigate through our selection of outdoor activities including
 
 ### Bulletin Page
 
+Users will see upcoming events/meetups listed on the Bulletin page. Users will be able to leave comments and coordinate plans through the bulletin comment section.
+
+
 ![Bulletin page mockup here](https://user-images.githubusercontent.com/96926588/165414383-a6c8f6fa-14a3-44ac-a75c-233ff72fdb6b.png)
 
-
-Users will see upcoming events/meetups listed on the Bulletin page. Users will be able to leave comments and coordinate plans through the bulletin comment section.
 
 
 ### Beach Page
@@ -141,7 +135,6 @@ Sunny skies, thick foilage, or flowing waterfalls. We have something for everyon
 Breathtaking views from any corner of the island
 
 ![scenicPage-mockup](https://user-images.githubusercontent.com/96926588/165414597-9f5fd644-1b19-4618-b656-2cb5cbab9fad.png)
-
 
 
 
