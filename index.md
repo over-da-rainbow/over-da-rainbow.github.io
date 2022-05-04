@@ -6,11 +6,11 @@
 * [Deployment](#Deployment)
 * [Goals](#goals)
 * [What Should the System Provide](#what-should-the-system-provide)
-* [Mockup pages](#mockup-pages)
 * [Deployment](#Deployment)
 * [Milestones](#Milestones)
 * [Developer Guide](#Developer-guide)
 * [User Guide](#User-guide)
+* [Community Feedback](#Community-Feedback)
 
 ## Overview
 
@@ -184,6 +184,12 @@ When Navigating through any of the pages listed above, simply click on the locat
 When logged in to an admin account, by clicking the user's email on the right side of the navbar, a dropdown is displayed in which the Add Location page can be accessed.
 
 ![addLocationPage-mockup](https://user-images.githubusercontent.com/97726557/165430177-2d76bd0b-a522-43af-83c9-601ebce44187.JPG)
+
+
+## Community Feedback
+
+Students from the UH community have used our application and found it very useful. 
+
 
 
 
