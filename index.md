@@ -5,7 +5,6 @@
 * [Overview](#overview)
 * [Deployment](#Deployment)
 * [Goals](#goals)
-* [What Should the System Provide](#what-should-the-system-provide)
 * [Deployment](#Deployment)
 * [Milestones](#Milestones)
 * [Developer Guide](#Developer-guide)
@@ -20,6 +19,16 @@ Over Da Rainbow is a web application for University of Hawaii students to step o
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
+
+## What the System will Provide
+
+* Home page where all users are funneled to
+* Users can login and keep track of all the places they’ve already explored
+* Suggested page where users can surf through different suggested destinations for their next experience.
+* Anonymous ratings under each destination to help future explorers.
+* Choice to leave comments under the destination.
+* “Volunteering” tab for people who need volunteer hours or want to help community
+* Tags for each location about what kind of activity  (ex. Beach, hike, etc.)
 
 
 ## Deployment
@@ -36,16 +45,6 @@ This web application is deployed through digital ocean and available [here](http
 * Give students ideas for outdoor activities to ease their minds from their classes.
 * Provide volunteer opportunities for students to help the community and enhance their resumes.
 * Coordinate plans with friends by using our bulletin page.
-
-## What Should the System Provide
-
-* Home page where all users are funneled to
-* Users can login and keep track of all the places they’ve already explored
-* Suggested page where users can surf through different suggested destinations for their next experience.
-* Anonymous ratings under each destination to help future explorers.
-* Choice to leave comments under the destination.
-* “Volunteering” tab for people who need volunteer hours or want to help community
-* Tags for each location about what kind of activity  (ex. Beach, hike, etc.)
 
 
 ## Developer Guide
@@ -188,9 +187,12 @@ When logged in to an admin account, by clicking the user's email on the right si
 
 ## Community Feedback
 
-Students from the UH community have used our application and found it very useful. 
+Students from the UH community have used our application and found it very useful. If you want to provide feedback to help us further develop our system, we would love to hear your feedback. Please take a couple of minutes to fill out our [Over Da Rainbow Feedback Form.](https://forms.gle/j1imHUd9JbaM7HbN6)
 
-
+Real User testimonials:
+"I used this application to find nice beaches on the east side." -Reed
+"Left a couple reviews to share my experience with future visitors." -Campbell
+"So cherrreh the chill campus spawts, CHEEEHOOO!" -Davin
 
 
 ## Team Contract
