@@ -193,11 +193,16 @@ When Navigating through any of the pages listed above, simply click on the locat
 <img width="1440" alt="Screen Shot 2022-04-26 at 2 25 43 PM" src="https://user-images.githubusercontent.com/96926588/165414303-e4735749-ad28-445f-b2f2-987ac2c19a07.png">
 
 
-### Add Location Page
+### Bulletin Messages and Events
 
-When logged in to an admin account, by clicking the user's email on the right side of the navbar, a dropdown is displayed in which the Add Location page can be accessed.
+To see the message board click the Bulletin dropdown in the navbar and then "Messages" where you can see what other users have posted or post your own message for others to see.
 
-![addLocationPage-mockup](https://user-images.githubusercontent.com/97726557/165430177-2d76bd0b-a522-43af-83c9-601ebce44187.JPG)
+![messages](https://user-images.githubusercontent.com/97726557/167372926-bd2764af-ab1b-497d-ba38-c941fefe2c88.png)
+
+To see the events page click the Bulletin dropdown in the navbar and then "Events" where you can see events planned by other people or plan an event for others to go to.
+
+![events](https://user-images.githubusercontent.com/97726557/167373903-a2daa6d3-89aa-4edb-b6f3-5e1f1fd767fb.png)
+
 
 
 ## Community Feedback
