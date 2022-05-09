@@ -81,6 +81,21 @@ Third, input the location name, type of location, description of the location, t
 
 ![addLocation-example](https://user-images.githubusercontent.com/97726557/165465990-e2411a7f-64ec-4a6e-8b55-05f33f53b55c.JPG)
 
+### Edit or Delete a Location
+
+First, login to your deployment of Over Da Rainbow using an admin account.
+
+![admin-login](https://user-images.githubusercontent.com/97726557/165465087-9c3c5f6c-7b38-40d0-932d-750aa0e63f40.png)
+
+Second, navigate to the location page of the location that you want to edit or delete
+
+![edit-delete](https://user-images.githubusercontent.com/97726557/167368247-7ebbf700-ab65-4f6c-b739-f854c7b0d504.png)
+
+To edit a location, click the "Edit Location" button and you will be taken to a page with a pre-filled form for that location that can be changed to update fields on for the location. After changing at least one field you can click the "Submit" button to update the information for that location.
+
+![edit-location](https://user-images.githubusercontent.com/97726557/167368637-bb276243-bf6d-47b0-abf2-1cb5614e67a4.png)
+
+To Delete a location, click the "Delete Location" button and you will be taken to the list page for that type of location (Beach, Hike, Spot, etc.) with the deleted page now gone.
 
 
 
