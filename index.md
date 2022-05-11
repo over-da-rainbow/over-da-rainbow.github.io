@@ -159,7 +159,7 @@ Sunny skies, thick foilage, or flowing waterfalls. We have something for everyon
 
 Breathtaking views from any corner of the island
 
-![scenicPage-mockup](https://user-images.githubusercontent.com/96926588/167752317-0275f113-8499-4be5-bed6-1ee63b71fdc0.png)
+![scenicPage-mockup](https://user-images.githubusercontent.com/96926588/167754530-9a85e853-d966-4475-93cb-a3716e5d7f94.png)
 
 
 
@@ -167,16 +167,16 @@ Breathtaking views from any corner of the island
 
 Cool places to hangout with your friends, study, or grab a quick snack.
 
-![campusPage-mockup](https://user-images.githubusercontent.com/96926588/167752335-8aefd8ac-35ce-42ad-a73c-ac9a21238159.png)
+![campusPage-mockup](https://user-images.githubusercontent.com/96926588/167754557-2ea5da95-8a92-4d32-afe7-3bed658b3a18.png)
+
+
 
 
 ### Volunteer Page 
 
 It has never been easier to find volunteer opportunities to beef up your resume or be a productive member of society. Get your volunteer hours buddy
 
-![volunteerPage-mockup](https://user-images.githubusercontent.com/96926588/165414638-69fe3163-2ae5-4b65-9264-d8b78299a69b.png)
-
-<img width="1440" alt="volunteer" src="https://user-images.githubusercontent.com/96926588/167752345-048310ae-c590-44cb-9ace-5feac730bc4c.png">
+![volunteerPage-mockup](https://user-images.githubusercontent.com/96926588/167752345-048310ae-c590-44cb-9ace-5feac730bc4c.png)
 
 
 
