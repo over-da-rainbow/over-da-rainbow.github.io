@@ -105,7 +105,7 @@ This section provides a crash course on using our application to the full extent
 
 
 
-### New User Landing page
+### New-User Landing page
 
 Upon arriving at our site, users will be presented with this screen: 
 
@@ -138,34 +138,28 @@ From here you can navigate through our selection of outdoor activities including
 
 ![landing](https://user-images.githubusercontent.com/96926588/165230345-7e9bad4a-9702-431f-8ff2-7be8890d1354.png)
 
-### Bulletin Page
-
-Users will see upcoming events/meetups listed on the Bulletin page. Users will be able to leave comments and coordinate plans through the bulletin comment section.
-
-
-![Bulletin page mockup here](https://user-images.githubusercontent.com/96926588/165414383-a6c8f6fa-14a3-44ac-a75c-233ff72fdb6b.png)
-
 
 
 ### Beach Page
 
 A variety of beaches around the island for you to choose from.
 
-![beachPage-mockup](https://user-images.githubusercontent.com/96926588/165414456-6ffe3e5c-83c0-4189-8581-6441666c9e99.png)
+![beachPage-mockup](https://user-images.githubusercontent.com/96926588/167752258-608a96ec-e6ea-449a-8263-5644275048e5.png)
+
 
 
 ### Hike Page
 
 Sunny skies, thick foilage, or flowing waterfalls. We have something for everyone on our hikes page
 
-![hikePage-mockup](https://user-images.githubusercontent.com/96926588/165414717-2e88c8de-8cbf-42fe-ba74-ee3bb7248a95.png)
+![hikePage-mockup](https://user-images.githubusercontent.com/96926588/167752308-91568f6a-1a1c-4dff-9dc0-eaa40aeb2455.png)
 
 
 ### Scenic Views Page
 
 Breathtaking views from any corner of the island
 
-![scenicPage-mockup](https://user-images.githubusercontent.com/96926588/165414597-9f5fd644-1b19-4618-b656-2cb5cbab9fad.png)
+![scenicPage-mockup](https://user-images.githubusercontent.com/96926588/167752317-0275f113-8499-4be5-bed6-1ee63b71fdc0.png)
 
 
 
@@ -173,8 +167,7 @@ Breathtaking views from any corner of the island
 
 Cool places to hangout with your friends, study, or grab a quick snack.
 
-![campusPage-mockup](https://user-images.githubusercontent.com/96926588/165414581-ace8eedc-a8c3-45bb-9252-eaa58050baa0.png)
-
+![campusPage-mockup](https://user-images.githubusercontent.com/96926588/167752335-8aefd8ac-35ce-42ad-a73c-ac9a21238159.png)
 
 
 ### Volunteer Page 
@@ -182,6 +175,9 @@ Cool places to hangout with your friends, study, or grab a quick snack.
 It has never been easier to find volunteer opportunities to beef up your resume or be a productive member of society. Get your volunteer hours buddy
 
 ![volunteerPage-mockup](https://user-images.githubusercontent.com/96926588/165414638-69fe3163-2ae5-4b65-9264-d8b78299a69b.png)
+
+<img width="1440" alt="volunteer" src="https://user-images.githubusercontent.com/96926588/167752345-048310ae-c590-44cb-9ace-5feac730bc4c.png">
+
 
 
 
@@ -210,6 +206,7 @@ To see the events page click the Bulletin dropdown in the navbar and then "Event
 Students from the UH community have used our application and found it very useful. If you want to provide feedback to help us further develop our system, we would love to hear your feedback. Please take a couple of minutes to fill out our [Over Da Rainbow Feedback Form.](https://forms.gle/j1imHUd9JbaM7HbN6)
 
 Real User testimonials:
+
 "I used this application to find nice beaches on the east side." -Reed
 
 "Left a couple reviews to share my experience with future visitors." -Campbell
