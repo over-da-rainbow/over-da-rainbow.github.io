@@ -120,12 +120,11 @@ From here, Students, Staff, and anyone in the University of Hawaii system will b
 
 First click the "Login" button in the upper right hand corner, then choose the "Sign-up" option if you are a new user, or the login button if you are a returning user.
 
-You will be redirected to this sign-up form where you will be prompted to enter your school email and create a password for your over-da-rainbow account.
+You will be redirected to this sign-up form where you will be prompted to enter your school email and create a password for your over-da-rainbow account. Along with email/username we will aks for some basic profile info like first and last name, class year, avatar selection, instagram handle and short bio.
 
 
 
-
-![sign-up-page](https://user-images.githubusercontent.com/96926588/165232694-8f59fc11-7030-4a3d-97b0-04a0e8cd7516.png)
+![sign-up-page](https://user-images.githubusercontent.com/30875198/167832875-1cdd6a70-8ab3-4d97-9c99-7921e1a66773.png)
 
 
 
@@ -137,6 +136,13 @@ From here you can navigate through our selection of outdoor activities including
 ### User logged in Landing page
 
 ![landing](https://user-images.githubusercontent.com/96926588/165230345-7e9bad4a-9702-431f-8ff2-7be8890d1354.png)
+
+### User Profile
+
+Now that you are logged in and set up your profile, you can view your profile by clicking on your username in the top right and their should be a new dropdown option called "Profile", upon clicking it will display your profile with appropriate information. 
+
+
+![profile](https://user-images.githubusercontent.com/30875198/167833453-d0c377f5-39fc-41e2-9fc2-71fa70502876.png)
 
 
 
@@ -188,6 +194,14 @@ When Navigating through any of the pages listed above, simply click on the locat
 
 <img width="1440" alt="Screen Shot 2022-04-26 at 2 25 43 PM" src="https://user-images.githubusercontent.com/96926588/165414303-e4735749-ad28-445f-b2f2-987ac2c19a07.png">
 
+### Review
+
+Along with some information about the specific spot, there are also Review section that has a "Review" button that pops up a modal form to take in a user's experience in the form of a review. These reviews then populate the Review section with the input.
+
+![review](https://user-images.githubusercontent.com/30875198/167832158-ca304d4d-b9b8-4d6a-8f36-96e02e80e1ba.png)
+
+![review2](https://user-images.githubusercontent.com/30875198/167832361-21093ff0-9a43-4783-afc0-7f78cb4b8bb3.png)
+
 
 ### Bulletin Messages and Events
 
@@ -198,6 +212,13 @@ To see the message board click the Bulletin dropdown in the navbar and then "Mes
 To see the events page click the Bulletin dropdown in the navbar and then "Events" where you can see events planned by other people or plan an event for others to go to.
 
 ![events](https://user-images.githubusercontent.com/97726557/167373903-a2daa6d3-89aa-4edb-b6f3-5e1f1fd767fb.png)
+
+On the Message Board and Event Board you will be able to click on the displayed usernames of the authors of messages/events, once clicked it will take you to that user's profile page.
+
+![nameLink](https://user-images.githubusercontent.com/30875198/167834122-c1c41e51-f90a-4e2f-a1cf-8bc23ff95545.png)
+
+
+![viewProfile](https://user-images.githubusercontent.com/30875198/167834152-7d29b80e-061c-4fa1-8526-0d5094960fc8.png)
 
 
 
