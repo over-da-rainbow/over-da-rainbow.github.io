@@ -211,8 +211,11 @@ Students from the UH community have used our application and found it very usefu
 
 Real User testimonials:
 "I used this application to find nice beaches on the east side." -Reed
+
 "Left a couple reviews to share my experience with future visitors." -Campbell
+
 "So cherrreh the chill campus spawts, CHEEEHOOO!" -Davin
+
 
 
 ## Team Contract
