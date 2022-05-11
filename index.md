@@ -234,6 +234,12 @@ Real User testimonials:
 
 "So cherrreh the chill campus spawts, CHEEEHOOO!" -Davin
 
+"There was some minor design flaws, some pages needed some extra padding" -Gage
+
+"I loved it, it was so cute!" - Sophie
+
+"There was a line under 'Discover' that was triggering my OCD" -Erin
+
 
 
 ## Team Contract
