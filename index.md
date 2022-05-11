@@ -215,7 +215,7 @@ To see the events page click the Bulletin dropdown in the navbar and then "Event
 
 On the Message Board and Event Board you will be able to click on the displayed usernames of the authors of messages/events, once clicked it will take you to that user's profile page.
 
-![nameLink](https://user-images.githubusercontent.com/30875198/167834122-c1c41e51-f90a-4e2f-a1cf-8bc23ff95545.png)
+![nameLink](https://user-images.githubusercontent.com/30875198/167834507-5e264ab5-c2df-446d-9e61-0a4970b54894.png)
 
 
 ![viewProfile](https://user-images.githubusercontent.com/30875198/167834152-7d29b80e-061c-4fa1-8526-0d5094960fc8.png)
